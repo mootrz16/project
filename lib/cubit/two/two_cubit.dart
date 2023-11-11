@@ -68,6 +68,7 @@ class TwoCubit extends Cubit<TwoStates> {
   }
   void remove()
   {
+
     zhor1 = true;
     zhor2 = true;
     zhor3 = true;
